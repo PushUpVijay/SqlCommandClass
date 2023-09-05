@@ -1,0 +1,7 @@
+C:\Users\Vijay\source\repos\PracticeSqlCommandClass\PracticeSqlCommandClass\bin\Debug\PracticeSqlCommandClass.exe.config
+C:\Users\Vijay\source\repos\PracticeSqlCommandClass\PracticeSqlCommandClass\bin\Debug\PracticeSqlCommandClass.exe
+C:\Users\Vijay\source\repos\PracticeSqlCommandClass\PracticeSqlCommandClass\bin\Debug\PracticeSqlCommandClass.pdb
+C:\Users\Vijay\source\repos\PracticeSqlCommandClass\PracticeSqlCommandClass\obj\Debug\PracticeSqlCommandClass.csproj.AssemblyReference.cache
+C:\Users\Vijay\source\repos\PracticeSqlCommandClass\PracticeSqlCommandClass\obj\Debug\PracticeSqlCommandClass.csproj.CoreCompileInputs.cache
+C:\Users\Vijay\source\repos\PracticeSqlCommandClass\PracticeSqlCommandClass\obj\Debug\PracticeSqlCommandClass.exe
+C:\Users\Vijay\source\repos\PracticeSqlCommandClass\PracticeSqlCommandClass\obj\Debug\PracticeSqlCommandClass.pdb
